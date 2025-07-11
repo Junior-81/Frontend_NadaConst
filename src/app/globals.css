@@ -1,0 +1,213 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.visible {
+  visibility: visible;
+}
+
+
+
+/* BARLOW */
+
+@font-face {
+  font-family: 'Barlow-Black';
+  src: url('/fonts/barlow/Barlow-Black.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-black{
+  font-family: 'Barlow-Black', sans-serif;
+}
+
+@font-face {
+  font-family: 'Barlow-ExtraBold';
+  src: url('/fonts/barlow/Barlow-ExtraBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-extrabold{
+  font-family: 'Barlow-ExtraBold', sans-serif;
+}
+
+@font-face {
+  font-family: 'Barlow-Bold';
+  src: url('/fonts/barlow/Barlow-Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-bold{
+  font-family: 'Barlow-Bold', sans-serif;
+}
+
+
+@font-face {
+  font-family: 'Barlow-SemiBold';
+  src: url('/fonts/barlow/Barlow-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-semibold{
+  font-family: 'Barlow-SemiBold', sans-serif;
+}
+
+@font-face {
+  font-family: 'Barlow-BarlowSemiCondensed-MediumItalic';
+  src: url('/fonts/barlow/BarlowSemiCondensed-MediumItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-semicondensedmedium{
+  font-family: 'Barlow-BarlowSemiCondensed-MediumItalic', sans-serif;
+}
+
+
+@font-face {
+  font-family: 'BarlowSemiCondensed-Italic';
+  src: url('/fonts/barlow/BarlowSemiCondensed-Italic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.barlow-semicondenseditalic{
+  font-family: 'BarlowSemiCondensed-Italic', sans-serif;
+}
+
+
+
+/* BEBAS */
+
+@font-face {
+  font-family: 'BebasNeue';
+  src: url('/fonts/bebas/BebasNeue-Regular.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.bebasnue-regular{
+  font-family: 'BebasNeue', sans-serif;
+}
+
+
+/* POPPINS */
+
+@font-face {
+  font-family: 'Poppins-Medium';
+  src: url('/fonts/bebas/poppins/Poppins-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-medium{
+  font-family: 'Poppins-Medium', sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-SemiBold';
+  src: url('/fonts/poppins/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-semibold{
+  font-family: 'Poppins-SemiBold', sans-serif;
+}
+
+@font-face {
+  font-family: 'Poppins-Bold';
+  src: url('/fonts/poppins/Poppins-Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold{
+  font-family: 'Poppins-Bold', sans-serif;
+}
+
+
+@font-face {
+  font-family: 'Poppins-Black';
+  src: url('/fonts/poppins/Poppins-Black.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-black{
+  font-family: 'Poppins-Black', sans-serif;
+}
+
+
+/* ROBOTO */
+
+
+@font-face {
+  font-family: 'Roboto-Bold';
+  src: url('/fonts/roboto/Roboto_Condensed-Bold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.roboto-bold{
+  font-family: 'Roboto-Bold', sans-serif;
+}
+
+
+@font-face {
+  font-family: 'Roboto-SemiBold';
+  src: url('/fonts/roboto/Roboto-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.roboto-semibold{
+  font-family: 'Roboto-SemiBold', sans-serif;
+}
+
+
+@font-face {
+  font-family: 'Roboto-Medium';
+  src: url('/fonts/roboto/Roboto-Medium.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.roboto-medium{
+  font-family: 'Roboto-Medium', sans-serif;
+}
+
+@font-face {
+  font-family: 'Roboto-Light';
+  src: url('/fonts/roboto/Roboto_Condensed-Light.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.roboto-light{
+  font-family: 'Roboto-Light', sans-serif;
+}
+
+
+
+/* resto */
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-icons {
+  transition: .5s;
+}
+
+.footer-icons:hover {
+  transform: translateY(-8px);
+}
+
+html {
+  scroll-behavior: smooth;
+}

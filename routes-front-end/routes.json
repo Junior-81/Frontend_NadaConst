@@ -1,0 +1,92 @@
+[
+  {
+    "path": "/AccessibilityButton",
+    "title": "ACCESSIBILITYBUTTON",
+    "description": "Descrição da página ACCESSIBILITYBUTTON"
+  },
+  {
+    "path": "/DivisorDeForma",
+    "title": "DIVISORDEFORMA",
+    "description": "Descrição da página DIVISORDEFORMA"
+  },
+  {
+    "path": "/Footer",
+    "title": "FOOTER",
+    "description": "Descrição da página FOOTER"
+  },
+  {
+    "path": "/heroSection",
+    "title": "HEROSECTION",
+    "description": "Descrição da página HEROSECTION"
+  },
+  {
+    "path": "/servicos",
+    "title": "SERVICOS",
+    "description": "Descrição da página SERVICOS"
+  },
+  {
+    "path": "/sobreosei",
+    "title": "SOBREOSEI",
+    "description": "Descrição da página SOBREOSEI"
+  },
+  {
+    "path": "/model-page",
+    "title": "MODEL PAGE",
+    "description": "Descrição da página MODEL PAGE"
+  },
+  {
+    "path": "/Navbar",
+    "title": "NAVBAR",
+    "description": "Descrição da página NAVBAR"
+  },
+  {
+    "path": "/particulas",
+    "title": "PARTICULAS",
+    "description": "Descrição da página PARTICULAS"
+  },
+  {
+    "path": "/ScrollToTop",
+    "title": "SCROLLTOTOP",
+    "description": "Descrição da página SCROLLTOTOP"
+  },
+  {
+    "path": "/search",
+    "title": "SEARCH",
+    "description": "Descrição da página SEARCH"
+  },
+  {
+    "path": "/Vlibras",
+    "title": "VLIBRAS",
+    "description": "Descrição da página VLIBRAS"
+  },
+  {
+    "path": "/app",
+    "title": "APP",
+    "description": "Descrição da página APP"
+  },
+  {
+    "path": "/capacitacao",
+    "title": "CAPACITACAO",
+    "description": "Descrição da página CAPACITACAO"
+  },
+  {
+    "path": "/faq",
+    "title": "FAQ",
+    "description": "Descrição da página FAQ"
+  },
+  {
+    "path": "/normativos",
+    "title": "NORMATIVOS",
+    "description": "Descrição da página NORMATIVOS"
+  },
+  {
+    "path": "/primeiro-acesso",
+    "title": "PRIMEIRO ACESSO",
+    "description": "Descrição da página PRIMEIRO ACESSO"
+  },
+  {
+    "path": "/[query]",
+    "title": "[QUERY]",
+    "description": "Descrição da página [QUERY]"
+  }
+]
